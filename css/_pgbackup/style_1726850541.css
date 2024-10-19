@@ -1,0 +1,10 @@
+.hero ul {
+    display: flex;
+    flex-direction: row;
+}
+
+.hero ul p {
+    margin-bottom: ;
+    margin-right: 50px;
+    font-size: 36px;
+}

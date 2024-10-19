@@ -1,0 +1,82 @@
+.hero ul {
+    display: flex;
+    flex-direction: row;
+}
+
+.hero ul p {
+    margin-bottom: ;
+    margin-right: 50px;
+    font-size: 36px;
+    width: 133px;
+    height: 81px;
+    background-image: url('../Component%204%20%E2%80%93%201.png');
+    align-content: center;
+    text-align: center;
+    bottom: 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-content: center;
+    align-self: center;
+    text-decoration: none;
+    user-select: none;
+}
+
+.hero ul :hover {
+    background-image: url('../Component%204%20%E2%80%93%202.png');
+}
+
+.TextB img {
+    z-index: 3;
+    position: absolute;
+}
+
+.TextB img img {
+}
+
+.SubButton img {
+    display: flex;
+    flex-direction: row;
+    align-items: ;
+}
+
+.TextB2 ul {
+    display: flex;
+}
+
+.TextB2 ul {
+}
+
+.TextB2 ul {
+    display: flex;
+    flex-direction: row;
+    z-index: 4;
+}
+
+.TextB2 ul img {
+    display: flex;
+    flex-direction: row;
+}
+
+.Bb {
+    margin-top: 500;
+    padding-top: 500;
+}
+
+.Bb img {
+    margin-top: 100;
+    bottom: 500;
+    overflow: scroll;
+    display: flex;
+    float: right;
+    border-top: 500 solid;
+    align-items: center;
+    position: absolute;
+    top: 50%;
+    flex-direction: row;
+}
+
+.Bb ul {
+    display: flex;
+    flex-direction: column;
+}

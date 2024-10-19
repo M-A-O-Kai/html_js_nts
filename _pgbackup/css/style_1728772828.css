@@ -1,0 +1,93 @@
+.hero ul {
+    display: flex;
+    flex-direction: row;
+}
+
+.hero ul p {
+    margin-bottom: ;
+    margin-right: 50px;
+    font-size: 36px;
+    width: 133px;
+    height: 81px;
+    background-image: url('../Component%204%20%E2%80%93%201.png');
+    align-content: center;
+    text-align: center;
+    bottom: 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-content: center;
+    align-self: center;
+    text-decoration: none;
+    user-select: none;
+}
+
+.hero ul :hover {
+    background-image: url('../Component%204%20%E2%80%93%202.png');
+}
+
+.TextB img img {
+}
+
+.SubButton img {
+    display: flex;
+    flex-direction: row;
+    align-items: ;
+}
+
+.TextB2 ul {
+    display: flex;
+}
+
+.TextB2 ul {
+}
+
+.TextB2 ul {
+    display: flex;
+    flex-direction: row;
+    z-index: 4;
+}
+
+.TextB2 ul img {
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+.Bb {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url('../Rectangle%205.png');
+    margin-right: 1;
+    width: 421px;
+    height: 320px;
+    background-size: cover;
+    position: absolute;
+    top: 120px;
+    left: 50px;
+    justify-content: center;
+    padding: 0 0 0 0;
+    z-index: 5;
+}
+
+.Bb p {
+    background-image: url('Component%2072.png');
+    width: 362px;
+    height: 59px;
+    text-align: center;
+    display: flex;
+    vertical-align: middle;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+   
+}
+
+.Bb p:hover {
+   background-image: url('../Component%204%20%E2%80%93%202.png');
+}
+
+
